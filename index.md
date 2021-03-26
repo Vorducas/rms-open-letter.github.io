@@ -182,6 +182,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alex Callejas
 1. Alex Desmond
 1. Alex Engelberg
+1. Alex Hadfield
 1. Alexis Danz
 1. alexis richardson (former TOC chair, cloud native computing foundation)
 1. Alexis Tyler
